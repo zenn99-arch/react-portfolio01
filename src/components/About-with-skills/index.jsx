@@ -24,10 +24,9 @@ const AboutWithSkills = () => {
                 </h3>
               </Split>
               <p className="wow fadeInUp" data-wow-delay=".5s">
-                Hello! I’m Alex Smith. Web designer from USA, California, San
-                Francisco. I have rich experience in web site design and
-                building, also I am good at wordpress. I love to talk with you
-                about our unique.
+                Hello! I’m Bimal Ray. Web designer from Odisha, Indian. I have rich experience in creating aesthetic website design and
+                building. I love to talk with you
+                about our unique ideas.
               </p>
               <a href="#0" className="simple-btn mt-40">
                 Download C.V
@@ -37,21 +36,27 @@ const AboutWithSkills = () => {
           <div className="col-lg-6 valign">
             <div className="skills-box full-width">
               <div className="skill-item">
-                <h6 className="custom-font">UI / UX Design</h6>
+                <h6 className="custom-font">Html, Css & Java Script</h6>
                 <div className="skill-progress">
                   <div className="progres custom-font" data-value="90%"></div>
                 </div>
               </div>
               <div className="skill-item">
-                <h6 className="custom-font">Development</h6>
+                <h6 className="custom-font"> Mern Stack Development</h6>
                 <div className="skill-progress">
                   <div className="progres custom-font" data-value="80%"></div>
                 </div>
               </div>
               <div className="skill-item">
-                <h6 className="custom-font">Graphic Design</h6>
+                <h6 className="custom-font">Python, Data Science & OpenCv</h6>
                 <div className="skill-progress">
                   <div className="progres custom-font" data-value="88%"></div>
+                </div>
+              </div>
+              <div className="skill-item">
+                <h6 className="custom-font">Adobe Xd, Figma (Ux)</h6>
+                <div className="skill-progress">
+                  <div className="progres custom-font" data-value="60%"></div>
                 </div>
               </div>
             </div>

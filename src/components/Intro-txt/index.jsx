@@ -1,6 +1,7 @@
 import React from "react";
+import Link from 'next/link'
 
-const IntroTxt = ({subBG}) => {
+const IntroTxt = ({ subBG }) => {
   return (
     <header
       className={`freelancer ${subBG ? "sub-bg" : ""} valign bg-img parallaxie`}
@@ -12,8 +13,8 @@ const IntroTxt = ({subBG}) => {
           <div className="col-lg-6">
             <div className="cont">
               <h6>Hello, I&apos;m</h6>
-              <h1>Alex Smith</h1>
-              <h4>UI &amp; UX Designer</h4>
+              <h1>Bimal Ray</h1>
+              <h4>Web Devloper </h4>
               <div className="social-icon">
                 <a href="#0" className="icon">
                   <i className="fab fa-facebook-f"></i>
@@ -28,6 +29,11 @@ const IntroTxt = ({subBG}) => {
                   <i className="fab fa-behance"></i>
                 </a>
               </div>
+              <Link href="/home/home3-dark">
+                <a className="simple-btn mt-40">
+                  Creative studio
+                </a>
+              </Link>
             </div>
           </div>
         </div>

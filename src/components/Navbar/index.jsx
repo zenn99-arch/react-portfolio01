@@ -63,21 +63,14 @@ const Navbar = ({ lr, nr, theme }) => {
                 Home
               </span>
               <div className="dropdown-menu">
-                <Link href="/home/home1-dark">
-                  <a className="dropdown-item">Main Home</a>
+                <Link href="/home">
+                  <a className="dropdown-item">Developer Studio</a>
                 </Link>
-                <Link href="/home/home2-dark">
+                
+                <Link href="/home/home3-dark">
                   <a className="dropdown-item">Creative Studio</a>
                 </Link>
-                <Link href="/home/home3-dark">
-                  <a className="dropdown-item">Business Startup</a>
-                </Link>
-                <Link href="/home/home4-dark">
-                  <a className="dropdown-item">One Page</a>
-                </Link>
-                <Link href="/home/home5-dark">
-                  <a className="dropdown-item">Freelancer</a>
-                </Link>
+                
               </div>
             </li>
 
@@ -114,30 +107,10 @@ const Navbar = ({ lr, nr, theme }) => {
                 <a className="nav-link">About</a>
               </Link>
             </li>
-            <li className="nav-item dropdown" onClick={handleDropdown}>
-              <span
-                className="nav-link dropdown-toggle"
-                data-toggle="dropdown"
-                role="button"
-                aria-haspopup="true"
-                aria-expanded="false"
-              >
-                portfolio
-              </span>
-              <div className="dropdown-menu">
-                <Link href="/works/works-dark">
-                  <a className="dropdown-item">Mouse Info</a>
-                </Link>
-                <Link href="/works2/works2-dark">
-                  <a className="dropdown-item">Masonry 3 Columns</a>
-                </Link>
-                <Link href="/works3/works3-dark">
-                  <a className="dropdown-item">Masonry 2 Columns</a>
-                </Link>
-                <Link href="/works4/works4-dark">
-                  <a className="dropdown-item">Pinterest List</a>
-                </Link>
-              </div>
+            <li className="nav-item">
+              <Link href="/works2/works2-dark">
+                <a className="nav-link">portfolio</a>
+              </Link>
             </li>
             <li className="nav-item">
               <Link href="/contact/contact-dark">
