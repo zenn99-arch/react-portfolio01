@@ -56,7 +56,7 @@ const AboutWithSkills = () => {
               <div className="skill-item">
                 <h6 className="custom-font">Adobe Xd, Figma (Ux)</h6>
                 <div className="skill-progress">
-                  <div className="progres custom-font" data-value="60%"></div>
+                  <div className="progres custom-font" data-value="75%"></div>
                 </div>
               </div>
             </div>
