@@ -30,7 +30,7 @@ const PortfolioCustomColumn = ({
             </h6>
             <Split>
               <h3 className="wow words chars splitting" data-splitting>
-                Our Works.
+                My Works.
               </h3>
             </Split>
             <span className="tbg text-right">Portfolio</span>
@@ -54,9 +54,9 @@ const PortfolioCustomColumn = ({
                 <span data-filter="*" className="active">
                   All
                 </span>
-                <span data-filter=".brand">Branding</span>
-                <span data-filter=".web">Mobile App</span>
-                <span data-filter=".graphic">Creative</span>
+                <span data-filter=".graphic">Graphics</span>
+                <span data-filter=".web">Web Page</span>
+                <span data-filter=".brand">3D </span>
               </div>
             </div>
           )}
@@ -81,7 +81,7 @@ const PortfolioCustomColumn = ({
                 data-wow-delay=".4s"
               >
                 <div className="item-img">
-                  <Link href="/project-details2/project-details2-dark">
+                  <Link target='_blank' href={item.href}>
                     <a className="imago wow">
                       <img src={item.image} alt="image" />
                       <div className="item-img-overlay"></div>

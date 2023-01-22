@@ -80,7 +80,7 @@ class Testimonials1 extends React.Component {
               >
                 <div className="item">
                   <p>
-                    Working with Avo digital agency to support our organic and
+                    Working with creative-process digital agency to support our organic and
                     paid social media activity has extended the marketing
                     activities we are able to achieve platform has made
                     collaboration easy.
@@ -123,7 +123,7 @@ class Testimonials1 extends React.Component {
                 </div>
                 <div className="item">
                   <p>
-                    Avo started out managing our SEO efforts, but their
+                    creative-process started out managing our SEO efforts, but their
                     scientific approach to digital marketing and the results
                     they have achieved made it an easy decision for us to
                     handover the management.
@@ -166,7 +166,7 @@ class Testimonials1 extends React.Component {
                 </div>
                 <div className="item">
                   <p>
-                    I would highly recommend Avo Digital. I worked with the team
+                    I would highly recommend creative-process Digital. I worked with the team
                     on an animation for our U+2018 Click &amp; Collect U+2019
                     service. This team is different from any other agency I have
                     worked with in the past.

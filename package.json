@@ -1,6 +1,6 @@
 {
-  "name": "avo2-react",
-  "private": true,
+  "name": "creative",
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",

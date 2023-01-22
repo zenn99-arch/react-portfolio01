@@ -7,7 +7,7 @@ const ProjectDetailsHeader = () => {
           <div className="row">
             <div className="col-lg-7 col-md-9">
               <div className="cont">
-                <h6>art &amp; illustration</h6>
+                <h6>Graphics &amp; illustration</h6>
                 <h2>Natural plus modern.</h2>
               </div>
             </div>

@@ -77,11 +77,12 @@ const ClientsBrands = ({ subBG, theme }) => {
                 </div>
                 <Split>
                   <a
-                    href="#0"
+                  target='_blank'
+                    href="https://reactjs.org/"
                     className="link words chars splitting"
                     data-splitting
                   >
-                    www.avo.com
+                    React js
                   </a>
                 </Split>
               </div>

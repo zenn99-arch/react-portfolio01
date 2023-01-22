@@ -28,35 +28,35 @@ const AboutWithSkills = () => {
                 building. I love to talk with you
                 about our unique ideas.
               </p>
-              <a href="#0" className="simple-btn mt-40">
+              <a href="/Bimal.Ray1.pdf" className="simple-btn mt-40">
                 Download C.V
               </a>
             </div>
           </div>
-          <div className="col-lg-6 valign">
-            <div className="skills-box full-width">
+          <div className="col-lg-6 valign"  >
+            <div className="skills-box full-width" >
               <div className="skill-item">
                 <h6 className="custom-font">Html, Css & Java Script</h6>
-                <div className="skill-progress">
-                  <div className="progres custom-font" data-value="90%"></div>
+                <div className="skill-progress" >
+                  <div className="progres custom-font" style={{backgroundColor: '#e2bc7b'}} data-value="90%"></div>
                 </div>
               </div>
               <div className="skill-item">
                 <h6 className="custom-font"> Mern Stack Development</h6>
                 <div className="skill-progress">
-                  <div className="progres custom-font" data-value="80%"></div>
+                  <div className="progres custom-font" style={{backgroundColor: '#e2bc7b'}} data-value="80%"></div>
                 </div>
               </div>
               <div className="skill-item">
                 <h6 className="custom-font">Python, Data Science & OpenCv</h6>
                 <div className="skill-progress">
-                  <div className="progres custom-font" data-value="88%"></div>
+                  <div className="progres custom-font" style={{backgroundColor: '#e2bc7b'}} data-value="88%"></div>
                 </div>
               </div>
               <div className="skill-item">
                 <h6 className="custom-font">Adobe Xd, Figma (Ux)</h6>
                 <div className="skill-progress">
-                  <div className="progres custom-font" data-value="75%"></div>
+                  <div className="progres custom-font" style={{backgroundColor: '#e2bc7b'}} data-value="75%"></div>
                 </div>
               </div>
             </div>

@@ -37,7 +37,7 @@ const Services5 = () => {
                 <span></span>
               </div>
               <h3 className="mb-30 fw-700">Investing in <br /> the digital future.</h3>
-              <p>Since its establishment in 2000, Avo Creative has been focusing on project management & implementation through cooperation.</p>
+              <p>Since its establishment in 2000, creative-process Creative has been focusing on project management & implementation through cooperation.</p>
               <p>In total, Brook Creative has created more than 2000 projects related to constructional designing and landscaping worldwide.</p>
             </div>
           </div>

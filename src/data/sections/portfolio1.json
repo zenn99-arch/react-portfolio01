@@ -1,44 +1,147 @@
 [
   {
     "id": 1,
-    "image": "/img/portfolio/mas/01.jpg",
-    "title": "Creativity Demand",
-    "tags": ["Design", "WordPress"],
-    "filterCategory": ["graphic"]
+    "image": "/img/portfolio/mas/01.png",
+    "title": "Proflo-u Device ",
+    "tags": ["Blender", "Solid Works"],
+    "filterCategory": ["brand"],
+    "href" : "home/home3-dark/"
   },
   {
     "id": 2,
-    "image": "/img/portfolio/mas/02.jpg",
-    "title": "Through The Breaking",
-    "tags": ["Design", "WordPress"],
-    "filterCategory": ["web"]
+    "image": "/img/portfolio/mas/02.png",
+    "title": "CRED Webclone",
+    "tags": ["React"],
+    "filterCategory": ["web"],
+    "href" : "https://cred-webclone.netlify.app"
   },
   {
     "id": 3,
-    "image": "/img/portfolio/mas/03.jpg",
-    "title": "Create With Creatives",
-    "tags": ["Design", "WordPress"],
-    "filterCategory": ["brand"]
+    "image": "/img/portfolio/mas/04.png",
+    "title": "Energies of power",
+    "tags": ["Photoshop"],
+    "filterCategory": ["graphic"],
+    "href" : "home/home3-dark/"
   },
+  
   {
     "id": 4,
-    "image": "/img/portfolio/mas/04.jpg",
-    "title": "Energies of Love",
-    "tags": ["Design", "WordPress"],
-    "filterCategory": ["graphic"]
+    "image": "/img/portfolio/mas/03.png",
+    "title": "PROFLO-U",
+    "tags": ["React","GSAP" ],
+    "filterCategory": ["web"],
+    "href" : "https://proflou.com/"
   },
   {
     "id": 5,
-    "image": "/img/portfolio/mas/05.jpg",
-    "title": "See It Yourself",
-    "tags": ["Design", "WordPress"],
-    "filterCategory": ["web"]
+    "image": "/img/portfolio/mas/05.png",
+    "title": "3D printer",
+    "tags": ["Blender", "Solid Works"],
+    "filterCategory": ["brand"],
+    "href" : "home/home3-dark/"
   },
   {
     "id": 6,
-    "image": "/img/portfolio/mas/06.jpg",
+    "image": "/img/portfolio/mas/06.png",
+    "title": "See It Yourself",
+    "tags": ["React", "Framer Motion"],
+    "filterCategory": ["web"],
+    "href" : "https://react-pagetransition-framermotion.netlify.app/"
+  },
+  {
+    "id": 7,
+    "image": "/img/portfolio/mas/07.png",
     "title": "Blast From The Past",
-    "tags": ["Design", "WordPress"],
-    "filterCategory": ["brand"]
+    "tags": ["Blender"],
+    "filterCategory": ["brand"],
+    "href" : "home/home3-dark/"
+  },
+  {
+    "id": 8,
+    "image": "/img/portfolio/mas/08.png",
+    "title": "Brochure",
+    "tags": ["Photoshop", "Illustrator"],
+    "filterCategory": ["graphic"],
+    "href" : "home/home3-dark/"
+  },
+  {
+    "id": 9,
+    "image": "/img/portfolio/mas/09.png",
+    "title": "UX design",
+    "tags": ["figma", "Illustrator"],
+    "filterCategory": ["web"],
+    "href" : "home/home3-dark/"
+  },
+  {
+    "id": 10,
+    "image": "/img/portfolio/mas/11.png",
+    "title": "Youtube Clone",
+    "tags": ["React"],
+    "filterCategory": ["web"],
+    "href" : "https://webclone-youtube.netlify.app/"
+  },
+  {
+    "id": 11,
+    "image": "/img/portfolio/mas/12.png",
+    "title": "Device",
+    "tags": ["Blender"],
+    "filterCategory": ["brand"],
+    "href" : "home/home3-dark/"
+  },
+  {
+    "id": 12,
+    "image": "/img/portfolio/mas/14.png",
+    "title": "Image Manipulation",
+    "tags": ["Photoshop"],
+    "filterCategory": ["graphic"],
+    "href" : "home/home3-dark/"
+  },
+  {
+    "id": 13,
+    "image": "/img/portfolio/mas/18.png",
+    "title": "Disney Clone",
+    "tags": ["React"],
+    "filterCategory": ["web"],
+    "href" : "https://webclone-disney.netlify.app/"
+  },
+  {
+    "id": 14,
+    "image": "/img/portfolio/mas/19.png",
+    "title": "Ecommerce dashboard",
+    "tags": ["React","Nextjs"],
+    "filterCategory": ["web"],
+    "href" : "home/home3-dark/"
+  },
+  {
+    "id": 15,
+    "image": "/img/portfolio/mas/13.png",
+    "title": "Cosmetics",
+    "tags": ["Blender"],
+    "filterCategory": ["brand"],
+    "href" : "home/home3-dark/"
+  },
+  {
+    "id": 16,
+    "image": "/img/portfolio/mas/17.png",
+    "title": "Pizza web",
+    "tags": ["HTML","CSS"],
+    "filterCategory": ["web"],
+    "href" : "https://onscroll-animation.netlify.app/"
+  },
+  {
+    "id": 17,
+    "image": "/img/portfolio/mas/16.png",
+    "title": "Coloration",
+    "tags": ["Photoshop"],
+    "filterCategory": ["graphic"],
+    "href" : "home/home3-dark/"
+  },
+  {
+    "id": 18,
+    "image": "/img/portfolio/mas/10.png",
+    "title": "Coffee",
+    "tags": ["HTML","CSS","JS"],
+    "filterCategory": ["web"],
+    "href" : "https://landing-page-coffee.netlify.app/"
   }
 ]

@@ -12,7 +12,7 @@ const Services4 = ({ withBG, withPadding, halfBG, withOutTitle }) => {
       <div className="container">
         {!withOutTitle && (
           <div className="sec-head custom-font text-center">
-            <h6 className="wow fadeIn" data-wow-delay=".5s">
+            <h6 className="wow fadeIn" data-wow-delay=".5s" >
               Best Features
             </h6>
             <Split>
