@@ -31,7 +31,7 @@ const MinimalArea = () => {
                   className="wow custom-font words chars splitting"
                   data-splitting
                 >
-                  About us.
+                  About me.
                 </h4>
               </Split>
 

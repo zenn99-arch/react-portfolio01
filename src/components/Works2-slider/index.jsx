@@ -39,7 +39,7 @@ const Works2Slider = ({ subBG }) => {
             </h6>
             <Split>
               <h3 className="wow words chars splitting" data-splitting>
-                Our Works.
+                My Works.
               </h3>
             </Split>
             <span className="tbg">Portfolio</span>
@@ -104,27 +104,21 @@ const Works2Slider = ({ subBG }) => {
                           <div
                             className="item-img bg-img wow imago"
                             style={{
-                              backgroundImage: "url(/img/portfolio/curs/1.jpg)",
+                              backgroundImage: "url(/img/portfolio/curs/1.png)",
                             }}
                           ></div>
                           <div className="cont bgbox">
                             <h6>
                               <Link href="/works2/works2-dark">
-                                art &amp; illustration
+                               Photoshop
                               </Link>
                             </h6>
                             <h4>
-                              <Link href="/project-details/project-details-dark">
-                                <a>Innovation and Crafts.</a>
-                              </Link>
+                              <div >
+                                <a>Photo Manipulation.</a>
+                              </div>
                             </h4>
-                            <Link href="/project-details2/project-details2-dark">
-                              <a>
-                                <span className="icon">
-                                  <i className="fas fa-plus"></i>
-                                </span>
-                              </a>
-                            </Link>
+                            
                           </div>
                         </div>
                       </SwiperSlide>
@@ -136,27 +130,21 @@ const Works2Slider = ({ subBG }) => {
                           <div
                             className="item-img bg-img wow imago"
                             style={{
-                              backgroundImage: "url(/img/portfolio/curs/2.jpg)",
+                              backgroundImage: "url(/img/portfolio/curs/2.png)",
                             }}
                           ></div>
                           <div className="cont bgbox">
                             <h6>
                               <Link href="/works2/works2-dark">
-                                art &amp; illustration
+                               Photoshop
                               </Link>
                             </h6>
                             <h4>
-                              <Link href="/project-details/project-details-dark">
-                                <a>Inspiring new space.</a>
-                              </Link>
+                              <div >
+                                <a>Photo Manipulation.</a>
+                              </div>
                             </h4>
-                            <Link href="/project-details2/project-details2-dark">
-                              <a>
-                                <span className="icon">
-                                  <i className="fas fa-plus"></i>
-                                </span>
-                              </a>
-                            </Link>
+                           
                           </div>
                         </div>
                       </SwiperSlide>
@@ -174,21 +162,15 @@ const Works2Slider = ({ subBG }) => {
                           <div className="cont bgbox">
                             <h6>
                               <Link href="/works2/works2-dark">
-                                art &amp; illustration
+                                Photoshop
                               </Link>
                             </h6>
                             <h4>
-                              <Link href="/project-details/project-details-dark">
-                                <a>Natural plus modern.</a>
-                              </Link>
+                              <div >
+                                <a>Photo Manipulation.</a>
+                              </div>
                             </h4>
-                            <Link href="/project-details2/project-details2-dark">
-                              <a>
-                                <span className="icon">
-                                  <i className="fas fa-plus"></i>
-                                </span>
-                              </a>
-                            </Link>
+                            
                           </div>
                         </div>
                       </SwiperSlide>
@@ -200,27 +182,21 @@ const Works2Slider = ({ subBG }) => {
                           <div
                             className="item-img bg-img wow imago"
                             style={{
-                              backgroundImage: "url(/img/portfolio/curs/4.jpg)",
+                              backgroundImage: "url(/img/portfolio/curs/4.png)",
                             }}
                           ></div>
                           <div className="cont bgbox">
                             <h6>
                               <Link href="/works2/works2-dark">
-                                art &amp; illustration
+                               photoshop &amp; illustration
                               </Link>
                             </h6>
                             <h4>
-                              <Link href="/project-details/project-details-dark">
-                                <a>Innovation and Crafts.</a>
-                              </Link>
+                              <div >
+                                <a>Product promotional post.</a>
+                              </div>
                             </h4>
-                            <Link href="/project-details2/project-details2-dark">
-                              <a>
-                                <span className="icon">
-                                  <i className="fas fa-plus"></i>
-                                </span>
-                              </a>
-                            </Link>
+                            
                           </div>
                         </div>
                       </SwiperSlide>
@@ -232,7 +208,85 @@ const Works2Slider = ({ subBG }) => {
                           <div
                             className="item-img bg-img wow imago"
                             style={{
-                              backgroundImage: "url(/img/portfolio/curs/5.jpg)",
+                              backgroundImage: "url(/img/portfolio/curs/5.png)",
+                            }}
+                          ></div>
+                          <div className="cont bgbox">
+                            <h6>
+                              <Link href="/works2/works2-dark">
+                               Photoshop &amp; illustration
+                              </Link>
+                            </h6>
+                            <h4>
+                              <div >
+                                <a>Poster.</a>
+                              </div>
+                            </h4>
+                            
+                          </div>
+                        </div>
+                      </SwiperSlide>
+                      <SwiperSlide className="swiper-slide">
+                        <div
+                          className="content wow fadeInUp"
+                          data-wow-delay=".3s"
+                        >
+                          <div
+                            className="item-img bg-img wow imago"
+                            style={{
+                              backgroundImage: "url(/img/portfolio/curs/6.png)",
+                            }}
+                          ></div>
+                          <div className="cont bgbox">
+                            <h6>
+                              <Link href="/works2/works2-dark">
+                               Blender
+                              </Link>
+                            </h6>
+                            <h4>
+                              <div >
+                                <a>Blender Modelling.</a>
+                              </div>
+                            </h4>
+                            
+                          </div>
+                        </div>
+                      </SwiperSlide>
+                      <SwiperSlide className="swiper-slide">
+                        <div
+                          className="content wow fadeInUp"
+                          data-wow-delay=".3s"
+                        >
+                          <div
+                            className="item-img bg-img wow imago"
+                            style={{
+                              backgroundImage: "url(/img/portfolio/curs/7.png)",
+                            }}
+                          ></div>
+                          <div className="cont bgbox">
+                            <h6>
+                              <Link href="/works2/works2-dark">
+                                Solid works &amp; Blender
+                              </Link>
+                            </h6>
+                            <h4>
+                              <div >
+                                <a>Proflo-u Device.</a>
+                              </div>
+                            </h4>
+                            
+                          </div>
+                        </div>
+                      </SwiperSlide>
+                      <SwiperSlide className="swiper-slide">
+                        <div
+                          className="content wow fadeInUp"
+                          data-wow-delay=".3s"
+                        >
+                          <div
+                            className="item-img bg-img wow imago"
+                            style={{
+                              backgroundImage: "url(/img/portfolio/curs/8.png)",
                             }}
                           ></div>
                           <div className="cont bgbox">
@@ -242,17 +296,89 @@ const Works2Slider = ({ subBG }) => {
                               </Link>
                             </h6>
                             <h4>
-                              <Link href="/project-details/project-details-dark">
-                                <a>Inspiring new space.</a>
-                              </Link>
+                              <div >
+                                <a>Client Brochure.</a>
+                              </div>
                             </h4>
-                            <Link href="/project-details2/project-details2-dark">
-                              <a>
-                                <span className="icon">
-                                  <i className="fas fa-plus"></i>
-                                </span>
-                              </a>
-                            </Link>
+                            
+                          </div>
+                        </div>
+                      </SwiperSlide>
+                      <SwiperSlide className="swiper-slide">
+                        <div
+                          className="content wow fadeInUp"
+                          data-wow-delay=".3s"
+                        >
+                          <div
+                            className="item-img bg-img wow imago"
+                            style={{
+                              backgroundImage: "url(/img/portfolio/curs/9.png)",
+                            }}
+                          ></div>
+                          <div className="cont bgbox">
+                            <h6>
+                              <Link href="/works2/works2-dark">
+                                art &amp; illustration
+                              </Link>
+                            </h6>
+                            <h4>
+                              <div >
+                                <a>Promotional Poster.</a>
+                              </div>
+                            </h4>
+                            
+                          </div>
+                        </div>
+                      </SwiperSlide>
+                      <SwiperSlide className="swiper-slide">
+                        <div
+                          className="content wow fadeInUp"
+                          data-wow-delay=".3s"
+                        >
+                          <div
+                            className="item-img bg-img wow imago"
+                            style={{
+                              backgroundImage: "url(/img/portfolio/curs/10.png)",
+                            }}
+                          ></div>
+                          <div className="cont bgbox">
+                            <h6>
+                              <Link href="/works2/works2-dark">
+                                Photoshop
+                              </Link>
+                            </h6>
+                            <h4>
+                              <div >
+                                <a>Social Media interactions</a>
+                              </div>
+                            </h4>
+                           
+                          </div>
+                        </div>
+                      </SwiperSlide>
+                      <SwiperSlide className="swiper-slide">
+                        <div
+                          className="content wow fadeInUp"
+                          data-wow-delay=".3s"
+                        >
+                          <div
+                            className="item-img bg-img wow imago"
+                            style={{
+                              backgroundImage: "url(/img/portfolio/curs/11.png)",
+                            }}
+                          ></div>
+                          <div className="cont bgbox">
+                            <h6>
+                              <Link href="/works2/works2-dark">
+                                3D &amp; Blender
+                              </Link>
+                            </h6>
+                            <h4>
+                              <div>
+                                <a>Modeling</a>
+                              </div>
+                            </h4>
+                           
                           </div>
                         </div>
                       </SwiperSlide>

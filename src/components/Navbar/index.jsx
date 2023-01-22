@@ -84,19 +84,19 @@ const Navbar = ({ lr, nr, theme }) => {
               </span>
               <div className="dropdown-menu">
                 <Link href="/showcase/showcase-dark">
-                  <a className="dropdown-item">Full Screen</a>
+                  <a className="dropdown-item">Blender art</a>
                 </Link>
                 <Link href="/showcase2/showcase2-dark">
-                  <a className="dropdown-item">Creative Carousel</a>
+                  <a className="dropdown-item">Illustrations</a>
                 </Link>
                 <Link href="/showcase3/showcase3-dark">
-                  <a className="dropdown-item">Radius Carousel</a>
+                  <a className="dropdown-item">logo</a>
                 </Link>
                 <Link href="/showcase4/showcase4-dark">
-                  <a className="dropdown-item">Columns Carousel</a>
+                  <a className="dropdown-item">Photoshop</a>
                 </Link>
                 <Link href="/showcase5/showcase5-dark">
-                  <a className="dropdown-item">Boxed Carousel</a>
+                  <a className="dropdown-item">websites</a>
                 </Link>
               </div>
             </li>

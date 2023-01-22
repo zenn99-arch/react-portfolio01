@@ -1,26 +1,44 @@
 [
   {
     "id": 1,
-    "title": { "first": "Hoodie", "second": "Jacket" },
+    "title": { "first": "Proflo-U", "second": "Device" },
     "image": "/img/portfolio/full/1.jpg",
     "sub": "Design"
   },
   {
     "id": 2,
-    "title": { "first": "Eminem", "second": "Style" },
-    "image": "/img/portfolio/full/4.jpg",
+    "title": { "first": "Cosmetic", "second": "Ad" },
+    "image": "/img/portfolio/full/2.jpeg",
     "sub": "Design"
   },
   {
     "id": 3,
-    "title": { "first": "Black", "second": "Panther" },
-    "image": "/img/portfolio/full/5.jpg",
+    "title": { "first": "Device", "second": "Model" },
+    "image": "/img/portfolio/full/3.jpeg",
     "sub": "Design"
   },
   {
     "id": 4,
-    "title": { "first": "Secret", "second": "Office" },
-    "image": "/img/portfolio/full/6.jpg",
+    "title": { "first": "Abstract", "second": "Art" },
+    "image": "/img/portfolio/full/4.jpeg",
+    "sub": "Design"
+  },
+  {
+    "id": 5,
+    "title": { "first": "Printer", "second": "Ad" },
+    "image": "/img/portfolio/full/5.png",
+    "sub": "Design"
+  },
+  {
+    "id": 6,
+    "title": { "first": "Bakery", "second": "Ad" },
+    "image": "/img/portfolio/full/6.png",
+    "sub": "Design"
+  },
+  {
+    "id": 7,
+    "title": { "first": "Allure", "second": "Ad" },
+    "image": "/img/portfolio/full/7.png",
     "sub": "Design"
   }
 ]

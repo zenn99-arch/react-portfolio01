@@ -11,12 +11,12 @@ const AboutHeader = () => {
         <div className="row">
           <div className="col-lg-12">
             <div className="cont text-center">
-              <h1>About Us</h1>
+              <h1>About Me</h1>
               <div className="path">
-                <a href="#0">Home</a>
+                <a href="/">Home</a>
                 <span>/</span>
                 <a href="#0" className="active">
-                  About Us
+                  About ME
                 </a>
               </div>
             </div>

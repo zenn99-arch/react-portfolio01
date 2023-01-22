@@ -93,7 +93,7 @@ const IntroWithSlider3 = () => {
                           strategy, ux structure or you do have some cool ideas
                           for collaboration.
                         </p>
-                        <Link href="/works3/works3-dark">
+                        <Link href="/works2/works2-dark/">
                           <a className="btn-curve btn-color btn-radius mt-30">
                             <span>Discover Work</span>
                           </a>
@@ -151,18 +151,38 @@ const IntroWithSlider3 = () => {
           >
             <SwiperSlide
               className="swiper-slide bg-img"
-              style={{ backgroundImage: 'url("/img/slid/1.jpg")' }}
-              data-overlay-dark="6"
+              style={{ backgroundImage: 'url("/img/slid/01.jpg")' }}
+              data-overlay-dark="2"
             ></SwiperSlide>
             <SwiperSlide
               className="swiper-slide bg-img"
-              style={{ backgroundImage: 'url("/img/slid/2.jpg")' }}
-              data-overlay-dark="6"
+              style={{ backgroundImage: 'url("/img/slid/02.jpg")' }}
+              data-overlay-dark="2"
             ></SwiperSlide>
             <SwiperSlide
               className="swiper-slide bg-img"
-              style={{ backgroundImage: 'url("/img/slid/3.jpg")' }}
-              data-overlay-dark="6"
+              style={{ backgroundImage: 'url("/img/slid/03.jpg")' }}
+              data-overlay-dark="2"
+            ></SwiperSlide>
+            <SwiperSlide
+              className="swiper-slide bg-img"
+              style={{ backgroundImage: 'url("/img/slid/04.png")' }}
+              data-overlay-dark="2"
+            ></SwiperSlide>
+            <SwiperSlide
+              className="swiper-slide bg-img"
+              style={{ backgroundImage: 'url("/img/slid/05.png")' }}
+              data-overlay-dark="2"
+            ></SwiperSlide>
+            <SwiperSlide
+              className="swiper-slide bg-img"
+              style={{ backgroundImage: 'url("/img/slid/06.jpg")' }}
+              data-overlay-dark="2"
+            ></SwiperSlide>
+            <SwiperSlide
+              className="swiper-slide bg-img"
+              style={{ backgroundImage: 'url("/img/slid/07.jpg")' }}
+              data-overlay-dark="2"
             ></SwiperSlide>
           </Swiper>
         ) : null}

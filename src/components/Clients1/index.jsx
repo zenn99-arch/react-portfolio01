@@ -12,9 +12,9 @@ const Clients1 = ({ theme, subBG }) => {
         <div className="row">
           <div className="col-lg-4 valign">
             <div className="sec-head custom-font mb-0">
-              <h6>Clients</h6>
+              <h6>Softwares</h6>
               <h3>
-                Our <br /> Clients
+                My <br /> fav
               </h3>
             </div>
           </div>
@@ -49,7 +49,7 @@ const Clients1 = ({ theme, subBG }) => {
                             className="link words chars splitting"
                             data-splitting
                           >
-                            {item.url}
+                            {item.name}
                           </a>
                         </Split>
                       </div>
@@ -99,7 +99,7 @@ const Clients1 = ({ theme, subBG }) => {
                             className="link words chars splitting"
                             data-splitting
                           >
-                            {item.url}
+                            {item.name}
                           </a>
                         </Split>
                       </div>

@@ -2,41 +2,49 @@
     {
         "id": 1,
         "darkImage": "/img/clients/brands/dark/01.png",
-        "lightImage": "/img/clients/brands/light/1.png"
+        "lightImage": "/img/clients/brands/light/1.png",
+        "name":"Three-js"
     },
     {
       "id": 2,
       "darkImage": "/img/clients/brands/dark/02.png",
-      "lightImage": "/img/clients/brands/light/2.png"
+      "lightImage": "/img/clients/brands/light/2.png",
+      "name":"Tailwind css"
     },
     {
       "id": 3,
-      "darkImage": "/img/clients/brands/dark/01.png",
-      "lightImage": "/img/clients/brands/light/3.png"
+      "darkImage": "/img/clients/brands/dark/03.png",
+      "lightImage": "/img/clients/brands/light/3.png",
+      "name":"React js"
     },
     {
       "id": 4,
-      "darkImage": "/img/clients/brands/dark/02.png",
-      "lightImage": "/img/clients/brands/light/4.png"
+      "darkImage": "/img/clients/brands/dark/04.png",
+      "lightImage": "/img/clients/brands/light/4.png",
+      "name":"Blender"
     },
     {
       "id": 5,
-      "darkImage": "/img/clients/brands/dark/01.png",
-      "lightImage": "/img/clients/brands/light/5.png"
+      "darkImage": "/img/clients/brands/dark/05.png",
+      "lightImage": "/img/clients/brands/light/5.png",
+      "name":"Framer Motion"
     },
     {
       "id": 6,
-      "darkImage": "/img/clients/brands/dark/02.png",
-      "lightImage": "/img/clients/brands/light/6.png"
+      "darkImage": "/img/clients/brands/dark/06.png",
+      "lightImage": "/img/clients/brands/light/6.png",
+      "name":"Next js"
     },
     {
       "id": 7,
-      "darkImage": "/img/clients/brands/dark/01.png",
-      "lightImage": "/img/clients/brands/light/7.png"
+      "darkImage": "/img/clients/brands/dark/07.png",
+      "lightImage": "/img/clients/brands/light/7.png",
+      "name":"GSAP"
     },
     {
       "id": 8,
-      "darkImage": "/img/clients/brands/dark/02.png",
-      "lightImage": "/img/clients/brands/light/8.png"
+      "darkImage": "/img/clients/brands/dark/08.png",
+      "lightImage": "/img/clients/brands/light/8.png",
+      "name":"Adobe Suite"
     }
 ]

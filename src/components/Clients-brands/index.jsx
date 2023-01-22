@@ -51,19 +51,19 @@ const ClientsBrands = ({ subBG, theme }) => {
                 className="item"
                 data-wow-delay={
                   index + 1 == "1"
-                    ? ".3s"
+                    ? ".1s"
                     : index + 1 == "2"
-                    ? ".6s"
+                    ? ".2s"
                     : index + 1 == "3"
-                    ? ".8s"
-                    : index + 1 == "4"
-                    ? ".3s"
-                    : index + 1 == "5"
                     ? ".4s"
+                    : index + 1 == "4"
+                    ? ".1s"
+                    : index + 1 == "5"
+                    ? ".3s"
                     : index + 1 == "6"
-                    ? ".7s"
-                    : index + 1 == "7"
                     ? ".5s"
+                    : index + 1 == "7"
+                    ? ".2s"
                     : index + 1 == "8"
                     ? ".3s"
                     : ""
@@ -71,7 +71,7 @@ const ClientsBrands = ({ subBG, theme }) => {
               >
                 <div className="img">
                   <img
-                    src={theme == "dark" ? item.darkImage : item.lightImage}
+                    src={item.darkImage}
                     alt=""
                   />
                 </div>
@@ -82,7 +82,7 @@ const ClientsBrands = ({ subBG, theme }) => {
                     className="link words chars splitting"
                     data-splitting
                   >
-                    React js
+                    {item.name}
                   </a>
                 </Split>
               </div>

@@ -28,14 +28,13 @@ const Footer = ({ noSubBG }) => {
               <div className="con-info custom-font">
                 <ul>
                   <li>
-                    <span>Email : </span> creative-process_support@website.com
+                    <span>Email : </span> bimal.ray99@gmail.com
                   </li>
                   <li>
-                    <span>Address : </span> A32 , Ave 15th Street, Door 211, San
-                    Franciso, USA 32490.
+                    <span>Address : </span> Bhubaneswar.
                   </li>
                   <li>
-                    <span>Phone : </span> (+1) 2345 678 44 88
+                    <span>Phone : </span> (+91) 7504036782
                   </li>
                 </ul>
               </div>

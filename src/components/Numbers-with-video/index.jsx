@@ -22,7 +22,7 @@ const NumbersWithVideo = ({ theme = "dark" }) => {
                 <div className="item no-bord">
                   <span className="icon pe-7s-smile"></span>
                   <h3 className="custom-font">
-                    <span className="count">2400</span>
+                    <span className="count">240</span>
                   </h3>
                   <Split>
                     <p className="wow txt words chars splitting" data-splitting>
@@ -35,7 +35,7 @@ const NumbersWithVideo = ({ theme = "dark" }) => {
                 <div className="item">
                   <span className="icon pe-7s-portfolio"></span>
                   <h3 className="custom-font">
-                    <span className="count">133</span>
+                    <span className="count">143</span>
                   </h3>
                   <Split>
                     <p className="wow txt words chars splitting" data-splitting>
@@ -48,7 +48,7 @@ const NumbersWithVideo = ({ theme = "dark" }) => {
                 <div className="item">
                   <span className="icon pe-7s-cloud-download"></span>
                   <h3 className="custom-font">
-                    <span className="count">254</span> k
+                    <span className="count">25</span> k
                   </h3>
                   <Split>
                     <p className="wow txt words chars splitting" data-splitting>
@@ -65,7 +65,7 @@ const NumbersWithVideo = ({ theme = "dark" }) => {
                   </h3>
                   <Split>
                     <p className="wow txt words chars splitting" data-splitting>
-                      Award Win
+                      Renders
                     </p>
                   </Split>
                 </div>
@@ -75,10 +75,10 @@ const NumbersWithVideo = ({ theme = "dark" }) => {
         </div>
         {typeof window !== "undefined" && (
           <ModalVideo
-            channel="vimeo"
+            channel="youtube"
             autoplay
             isOpen={isOpen}
-            videoId="127203262"
+            videoId="HbK39v7qXTQ"
             onClose={() => setOpen(false)}
           />
         )}
@@ -90,13 +90,13 @@ const NumbersWithVideo = ({ theme = "dark" }) => {
                   <div className="tit-text">
                     <Split>
                       <h3 className="wow words chars splitting" data-splitting>
-                        Showreel
+                        3D Render Video
                       </h3>
                     </Split>
                   </div>
                   <div className="wow imago">
                     <div className="img">
-                      <img src="/img/vid.jpg" alt="" />
+                      <img src="/img/vid.png" alt="" />
                     </div>
                     <div className="vid-icon">
                       <a
@@ -105,7 +105,7 @@ const NumbersWithVideo = ({ theme = "dark" }) => {
                           setOpen(true);
                         }}
                         className="vid"
-                        href="https://vimeo.com/127203262"
+                        href="https://youtu.be/HbK39v7qXTQ"
                       >
                         <div className="vid-butn">
                           <span className="icon">
@@ -115,6 +115,9 @@ const NumbersWithVideo = ({ theme = "dark" }) => {
                       </a>
                     </div>
                   </div>
+
+                 
+
                 </div>
               </div>
             </div>

@@ -38,8 +38,6 @@ const Homepage3 = () => {
       <Services3 />
       <NumbersWithVideo />
       <Works2Slider subBG />
-      <Testimonials1 />
-      <BlogsThreeColumn1 subBG />
       <Footer />
     </DarkTheme>
   );

@@ -14,30 +14,27 @@ const Services3 = () => {
           <div className="col-lg-4 wow fadeInUp" data-wow-delay=".3s">
             <div className="step-item xtop">
               <span className="icon pe-7s-gleam"></span>
-              <h6>Digital Marketing</h6>
+              <h6>Graphics Design</h6>
               <p>
-                Tempore corrupti temporibus fuga earum asperiores fugit
-                laudantium.
+                It includes logo making, poster design, social media post, brochure Making .
               </p>
             </div>
           </div>
           <div className="col-lg-4 wow fadeInUp" data-wow-delay=".6s">
             <div className="step-item xcolor">
               <span className="icon pe-7s-phone"></span>
-              <h6>Web &amp; App Development</h6>
+              <h6>Ui &amp; Ux Development</h6>
               <p>
-                Tempore corrupti temporibus fuga earum asperiores fugit
-                laudantium.
+                Creating client based ux accompanied by ui using figma and Adobe suite.
               </p>
             </div>
           </div>
           <div className="col-lg-4 wow fadeInUp" data-wow-delay=".9s">
             <div className="step-item xbottom">
               <span className="icon pe-7s-magic-wand"></span>
-              <h6>Graphic Design</h6>
+              <h6>Video Editing & 3D Renders</h6>
               <p>
-                Tempore corrupti temporibus fuga earum asperiores fugit
-                laudantium.
+                Different processes like Importing and organizing footage, Rough cut, Fine cut, Color correction, Audio editing, transitions.
               </p>
             </div>
           </div>

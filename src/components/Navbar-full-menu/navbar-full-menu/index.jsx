@@ -25,7 +25,7 @@ const NavbarFullMenu = ({ theme, lr }) => {
                   <img src={`${appData.lightLogo}`} alt="logo" />
                 )
               ) : (
-                <img src={`${appData.lightLogo}`} alt="logo" />
+                <img src={`${appData.lightLogo}`} alt="logo" style={{height:'30px', width:'200px'}} />
               )}
             </a>
           </div>
@@ -126,7 +126,7 @@ const NavbarFullMenu = ({ theme, lr }) => {
                           <div className="o-hidden">
                             <Link href="/showcase/showcase-dark">
                               <a className="sub-link">
-                                <span className="nm">01.</span>Full Screen
+                                <span className="nm">01.</span>Blender art
                               </a>
                             </Link>
                           </div>
@@ -135,7 +135,7 @@ const NavbarFullMenu = ({ theme, lr }) => {
                           <div className="o-hidden">
                             <Link href="/showcase2/showcase2-dark">
                               <a className="sub-link">
-                                <span className="nm">02.</span>Creative Carousel
+                                <span className="nm">02.</span>Illustrations
                               </a>
                             </Link>
                           </div>
@@ -144,7 +144,7 @@ const NavbarFullMenu = ({ theme, lr }) => {
                           <div className="o-hidden">
                             <Link href="/showcase3/showcase3-dark">
                               <a className="sub-link">
-                                <span className="nm">03.</span>Radius Carousel
+                                <span className="nm">03.</span>logo
                               </a>
                             </Link>
                           </div>
@@ -153,7 +153,7 @@ const NavbarFullMenu = ({ theme, lr }) => {
                           <div className="o-hidden">
                             <Link href="/showcase4/showcase4-dark">
                               <a className="sub-link">
-                                <span className="nm">04.</span>Columns Carousel
+                                <span className="nm">04.</span>Photoshop
                               </a>
                             </Link>
                           </div>
@@ -162,7 +162,7 @@ const NavbarFullMenu = ({ theme, lr }) => {
                           <div className="o-hidden">
                             <Link href="/showcase5/showcase5-dark">
                               <a className="sub-link">
-                                <span className="nm">05.</span>Boxed Carousel
+                                <span className="nm">05.</span>websites
                               </a>
                             </Link>
                           </div>
@@ -187,18 +187,18 @@ const NavbarFullMenu = ({ theme, lr }) => {
               <div className="cont-info">
                 <div className="item">
                   <h6>Phone :</h6>
-                  <p>+03 762-2367-723</p>
+                  <p>+91 7504036782</p>
                 </div>
                 <div className="item">
                   <h6>Address :</h6>
                   <p>
-                    541 Melville Ave, Palo Alto, CA 94301, ask@ohio.colabr.io
+                    Bhubaneswar
                   </p>
                 </div>
                 <div className="item">
                   <h6>Email :</h6>
                   <p>
-                    <a href="#0">Avo_website@gmail.com</a>
+                    <a href="#0">bimal.ray99@gmail.com</a>
                   </p>
                 </div>
               </div>

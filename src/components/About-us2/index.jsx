@@ -29,7 +29,7 @@ const AboutUs2 = ({ skillsTheme }) => {
           <div className="col-lg-6 valign">
             <div className="content">
               <div className="sub-title">
-                <h6>About Us</h6>
+                <h6>About Me</h6>
                 <span></span>
                 <span></span>
                 <span></span>
@@ -39,19 +39,14 @@ const AboutUs2 = ({ skillsTheme }) => {
                   className="co-tit custom-font wow words chars splitting"
                   data-splitting
                 >
-                  Our 20 years working experience make a different business
-                  agency services.
+                  In my 4 years working experience I have completed lots of project.
                 </h3>
               </Split>
               <p className="wow fadeInUp" data-wow-delay=".4s">
-                We are AVO. We create award-winning websites, remarkable brands
-                and cutting-edge apps.Nullam imperdiet, sem at fringilla
-                lobortis, sem nibh fringilla nibh, id gravida mi purus sit amet
-                erat. Ut dictum nisi masvitp.
+               i am a graphic designer who creates the graphics primarily for published, printed, or electronic media, such as brochures and advertising.
               </p>
               <p className="mt-10 wow fadeInUp" data-wow-delay=".4s">
-                Nulla metus metus ullamcorper vel tincidunt sed euismod nibh
-                volutpat velit class aptent taciti sociosqu ad litora.
+                These are some of my works.
               </p>
               <Split>
                 <Link href="/about/about-dark">
@@ -68,7 +63,7 @@ const AboutUs2 = ({ skillsTheme }) => {
           <div className="col-lg-6">
             <div className="blc-img">
               <div className="bimg wow imago">
-                <img src="/img/intro/3.jpg" alt="" />
+                <img src="/img/intro/b1.jpg" alt="" />
               </div>
               <div className="skills-circle wow fadeInUp" data-wow-delay=".8">
                 <div className="item">
@@ -82,8 +77,8 @@ const AboutUs2 = ({ skillsTheme }) => {
                     />
                   </div>
                   <div className="cont">
-                    <span>Project</span>
-                    <h6>Consulting</h6>
+                    <span>Graphic</span>
+                    <h6>Media</h6>
                   </div>
                 </div>
                 <div className="item">
@@ -97,8 +92,8 @@ const AboutUs2 = ({ skillsTheme }) => {
                     />
                   </div>
                   <div className="cont">
-                    <span>App</span>
-                    <h6>Development</h6>
+                    <span>Video</span>
+                    <h6>Media</h6>
                   </div>
                 </div>
               </div>

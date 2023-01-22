@@ -1,7 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import { Swiper, SwiperSlide } from "swiper/react";
-import ShowcassesFullScreenData from "../../data/showcases-full-screen-slider.json";
+import ShowcassesFullScreenData from "../../data/showcases-illustration.json";
 import SwiperCore, { Navigation, Parallax, Mousewheel } from "swiper";
 
 import "swiper/css";
@@ -91,24 +91,24 @@ const ShowcasesOneCenter = () => {
                   <div className="caption ontop">
                     <div className="o-hidden">
                       <h1>
-                        <Link href="/project-details2/project-details2-dark">
+                        <div >
                           <a>
                             <div className="stroke">{slide.title.first}</div>
                             <span>{slide.title.second}</span>
                           </a>
-                        </Link>
+                        </div>
                       </h1>
                     </div>
                   </div>
                   <div className="copy-cap valign">
                     <div className="cap">
                       <h1>
-                        <Link href="/project-details2/project-details2-dark">
+                        <div >
                           <a>
                             <div className="stroke">{slide.title.first}</div>
                             <span>{slide.title.second}</span>
                           </a>
-                        </Link>
+                        </div>
                       </h1>
                     </div>
                   </div>
