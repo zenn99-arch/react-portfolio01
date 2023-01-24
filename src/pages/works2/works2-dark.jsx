@@ -57,7 +57,7 @@ const Works2Dark = () => {
                 <div className="parlx">
                   <h2 className="custom-font">My amazing works</h2>
                   <p>
-                    Creative way to showcase your works at their absolute best.
+                    These are some of my best works.
                   </p>
                 </div>
 

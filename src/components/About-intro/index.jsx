@@ -15,14 +15,7 @@ const AboutIntro = () => {
             <div className="text">
               <Split>
                 <p className="wow txt words chars splitting" data-splitting>
-                  We develop creative solutions for small and big brands alike,
-                  build authentic product identities and much more.Lorem ipsum
-                  dolor sit amet, consectetur adipiscing elit sit non facilisis
-                  vitae eu. Ultrices ut diam morbi risus dui, nec eget at lorem
-                  in id tristique in elementum leo nisi eleifend placerat magna
-                  lacus elementum ornare vehicula odio posuere quisque ultrices
-                  tempus cras id blandit maecenas in ornare quis dolor tempus
-                  risus vitae feugiat fames aliquet sede.
+                I am a highly skilled and experienced freelance graphic designer with a passion for creating visually stunning designs that effectively communicate a message. With over 5 years of experience in the industry, I have a diverse portfolio that showcases my ability to work in a variety of styles and mediums, from print to digital. I am a creative problem-solver, able to understand the needs of my clients and deliver high-quality work that exceeds their expectations. I am always looking for new challenges and opportunities to grow as a designer.
                 </p>
               </Split>
             </div>

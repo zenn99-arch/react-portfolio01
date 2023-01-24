@@ -19,7 +19,7 @@ const MinimalArea = () => {
             <div className="img">
               <img
                 className="thumparallax-down"
-                src="/img/min-area.jpg"
+                src="/img/profile.jpeg"
                 alt=""
               />
             </div>
@@ -37,11 +37,10 @@ const MinimalArea = () => {
 
               <Split>
                 <p className="wow txt words chars splitting" data-splitting>
-                  Our creative Ad agency is ranked among the finest in the US.
-                  We cultivate smart ideas for start-ups and seasoned players.
+                I am a visual designer based in Bhubaneswar. I make high-end digital stuff and Aestheticist for Customary Conceptualization. Hope you dig it :)
                 </p>
               </Split>
-              <ul className="feat">
+              {/* <ul className="feat">
                 <li className="wow fadeInUp" data-wow-delay=".2s">
                   <h6>
                     <span>1</span> Our Mission
@@ -66,7 +65,7 @@ const MinimalArea = () => {
                     luctus massa ipsum at tempus eleifend congue lectus bibendum
                   </p>
                 </li>
-              </ul>
+              </ul> */}
             </div>
           </div>
         </div>
