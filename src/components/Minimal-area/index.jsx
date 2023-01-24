@@ -40,32 +40,7 @@ const MinimalArea = () => {
                 I am a visual designer based in Bhubaneswar. I make high-end digital stuff and Aestheticist for Customary Conceptualization. Hope you dig it 
                 </p>
               </Split>
-              {/* <ul className="feat">
-                <li className="wow fadeInUp" data-wow-delay=".2s">
-                  <h6>
-                    <span>1</span> Our Mission
-                  </h6>
-                  <p>
-                    luctus massa ipsum at tempus eleifend congue lectus bibendum
-                  </p>
-                </li>
-                <li className="wow fadeInUp" data-wow-delay=".4s">
-                  <h6>
-                    <span>2</span> Our Goals
-                  </h6>
-                  <p>
-                    luctus massa ipsum at tempus eleifend congue lectus bibendum
-                  </p>
-                </li>
-                <li className="wow fadeInUp" data-wow-delay=".6s">
-                  <h6>
-                    <span>3</span> Why Us?
-                  </h6>
-                  <p>
-                    luctus massa ipsum at tempus eleifend congue lectus bibendum
-                  </p>
-                </li>
-              </ul> */}
+            
             </div>
           </div>
         </div>

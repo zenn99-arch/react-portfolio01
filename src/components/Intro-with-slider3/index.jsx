@@ -85,7 +85,7 @@ const IntroWithSlider3 = () => {
                       <div className="caption">
                         <Split>
                           <h1 data-splitting className="words chars splitting">
-                            <div className="thin">Unique brand</div> Stories
+                            <div className="thin">Unique design</div> Stories
                           </h1>
                         </Split>
                         <p>
