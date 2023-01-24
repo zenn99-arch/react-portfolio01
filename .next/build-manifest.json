@@ -30,15 +30,20 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/showcase4/showcase4-dark": [
+    "/home/home3-dark": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/showcase4/showcase4-dark.js"
+      "static/chunks/pages/home/home3-dark.js"
     ],
-    "/showcase5/showcase5-dark": [
+    "/showcase/showcase-dark": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/showcase5/showcase5-dark.js"
+      "static/chunks/pages/showcase/showcase-dark.js"
+    ],
+    "/showcase2/showcase2-dark": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/showcase2/showcase2-dark.js"
     ]
   },
   "ampFirstPages": []

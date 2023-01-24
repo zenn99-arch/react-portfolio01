@@ -37,7 +37,7 @@ const MinimalArea = () => {
 
               <Split>
                 <p className="wow txt words chars splitting" data-splitting>
-                I am a visual designer based in Bhubaneswar. I make high-end digital stuff and Aestheticist for Customary Conceptualization. Hope you dig it :)
+                I am a visual designer based in Bhubaneswar. I make high-end digital stuff and Aestheticist for Customary Conceptualization. Hope you dig it 
                 </p>
               </Split>
               {/* <ul className="feat">
