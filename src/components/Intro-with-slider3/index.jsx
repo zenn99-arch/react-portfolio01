@@ -55,7 +55,7 @@ const IntroWithSlider3 = () => {
                       <div className="caption">
                         <Split>
                           <h1 data-splitting className="words chars splitting">
-                            <div className="thin">Hello, I&apos;m</div>Bimal Ray
+                            <div className="thin">Hello, I&apos;m</div>Bimal <br/> Ray
                           </h1>
                         </Split>
                         <p>
