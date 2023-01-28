@@ -41,61 +41,29 @@ const IntroWithSlider3 = () => {
             <Swiper
               speed={1000}
               loop={true}
-              autoplay={{
-                delay: 2500,
-                disableOnInteraction: false,
-              }}
-              navigation={{
-                prevEl: navigationPrevRef.current,
-                nextEl: navigationNextRef.current,
-              }}
-              pagination={{
-                type: "fraction",
-                clickable: true,
-                el: paginationRef.current,
-              }}
-              onBeforeInit={(swiper) => {
-                swiper.params.navigation.prevEl = navigationPrevRef.current;
-                swiper.params.navigation.nextEl = navigationNextRef.current;
-                swiper.params.pagination.el = paginationRef.current;
-              }}
-              onSwiper={(swiper) => {
-                setTimeout(() => {
-                  swiper.params.navigation.prevEl = navigationPrevRef.current;
-                  swiper.params.navigation.nextEl = navigationNextRef.current;
-
-                  swiper.params.pagination.el = paginationRef.current;
-
-                  swiper.navigation.destroy();
-                  swiper.navigation.init();
-                  swiper.navigation.update();
-
-                  swiper.pagination.destroy();
-                  swiper.pagination.init();
-                  swiper.pagination.update();
-                });
-              }}
+             
+              
+             
+             
               className="swiper-wrapper"
               slidesPerView={1}
             >
               {introData.map((slide) => (
                 <SwiperSlide key={slide.id} className="swiper-slide">
-                  <div className="row">
-                    <div className="col-lg-6 col-md-8 offset-lg-1 offset-md-1">
+                  <div className="row " >
+                    <div className="col-lg-6 col-md-8 offset-lg-0 offset-md-1">
                       <div className="caption">
                         <Split>
                           <h1 data-splitting className="words chars splitting">
-                            <div className="thin">Unique design</div> Stories
+                            <div className="thin">Hello, I&apos;m</div>Bimal Ray
                           </h1>
                         </Split>
                         <p>
-                          If you need to redesign your new project, new visual
-                          strategy, ux structure or you do have some cool ideas
-                          for collaboration.
+                         
                         </p>
-                        <Link href="/works2/works2-dark/">
+                        <Link href="/">
                           <a className="btn-curve btn-color btn-radius mt-30">
-                            <span>Discover Work</span>
+                            <span>Devloper Studio</span>
                           </a>
                         </Link>
                       </div>

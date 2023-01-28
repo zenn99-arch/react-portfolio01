@@ -16,16 +16,16 @@ const IntroTxt = ({ subBG }) => {
               <h1>Bimal Ray</h1>
               <h4>Web Devloper </h4>
               <div className="social-icon">
-                <a href="#0" className="icon">
-                  <i className="fab fa-facebook-f"></i>
+                <a target='_blank' href="https://github.com/zenn99-arch" className="icon">
+                  <i className="fab fa-github"></i>
                 </a>
-                <a href="#0" className="icon">
-                  <i className="fab fa-twitter"></i>
+                <a target='_blank' href="https://dribbble.com/Bimalray99" className="icon">
+                  <i className="fab fa-dribbble"></i>
                 </a>
-                <a href="#0" className="icon">
-                  <i className="fab fa-pinterest"></i>
+                <a target='_blank' href="https://www.instagram.com/creative___process/" className="icon">
+                  <i className="fab fa-instagram"></i>
                 </a>
-                <a href="#0" className="icon">
+                <a target='_blank' href="#0" className="icon">
                   <i className="fab fa-behance"></i>
                 </a>
               </div>

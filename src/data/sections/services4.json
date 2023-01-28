@@ -2,20 +2,20 @@
   {
     "id": 1,
     "title": "Web Development",
-    "icon": "pe-7s-phone",
-    "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+    "icon": "pe-7s-airplay",
+    "content": "Creating aesthtic looking websites and dashboard using MERN stack."
   },
   {
     "id": 3,
-    "title": "Graphic Design",
-    "icon": "pe-7s-magic-wand",
-    "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+    "title": "UX Design",
+    "icon": "pe-7s-config",
+    "content": "Creating client based ux accompanied by ui using figma and Adobe suite."
   },
     {
         "id": 2,
         "title": "3D Design",
-        "icon": "pe-7s-gleam",
-        "content": "Tempore corrupti temporibus fuga earum asperiores fugit laudantium."
+        "icon": "pe-7s-box2",
+        "content": "Creating aesthetic 3D elements for Three JS using Blender which can be used in websites."
     }
    
     

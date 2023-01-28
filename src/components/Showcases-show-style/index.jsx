@@ -1,7 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import { Swiper, SwiperSlide } from "swiper/react";
-import ShowcassesFullScreenData from "../../data/showcases-full-screen-slider.json";
+import ShowcassesFullScreenData from "../../data/showcases-website.json";
 import SwiperCore, {
   Navigation,
   
@@ -75,27 +75,13 @@ const ShowcasesShowStyle = () => {
                 <div
                   className="bg-img valign"
                   style={{ backgroundImage: `url(${slide.image})` }}
-                  data-overlay-dark="4"
+                  data-overlay-dark="1"
                 >
                   <div className="container">
                     <div className="row">
                       <div className="col-lg-10 offset-lg-1">
                         <div className="caption">
-                          <h1>
-                            <Link href="/project-details2/project-details2-dark">
-                              <a>
-                                <div
-                                  className="stroke"
-                                  data-swiper-parallax="-2000"
-                                >
-                                  {slide.title.first}
-                                </div>
-                                <span data-swiper-parallax="-5000">
-                                  {slide.title.second}
-                                </span>
-                              </a>
-                            </Link>
-                          </h1>
+                          
                         </div>
                       </div>
                     </div>

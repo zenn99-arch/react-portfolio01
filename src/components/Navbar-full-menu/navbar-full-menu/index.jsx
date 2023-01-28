@@ -149,20 +149,12 @@ const NavbarFullMenu = ({ theme, lr }) => {
                             </Link>
                           </div>
                         </li>
-                        <li>
-                          <div className="o-hidden">
-                            <Link href="/showcase4/showcase4-dark">
-                              <a className="sub-link">
-                                <span className="nm">04.</span>Photoshop
-                              </a>
-                            </Link>
-                          </div>
-                        </li>
+                        
                         <li>
                           <div className="o-hidden">
                             <Link href="/showcase5/showcase5-dark">
                               <a className="sub-link">
-                                <span className="nm">05.</span>websites
+                                <span className="nm">04.</span>websites
                               </a>
                             </Link>
                           </div>

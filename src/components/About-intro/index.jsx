@@ -15,7 +15,7 @@ const AboutIntro = () => {
             <div className="text">
               <Split>
                 <p className="wow txt words chars splitting" data-splitting>
-                I am a highly skilled and experienced freelance graphic designer with a passion for creating visually stunning designs that effectively communicate a message. With over 5 years of experience in the industry, I have a diverse portfolio that showcases my ability to work in a variety of styles and mediums, from print to digital. I am a creative problem-solver, able to understand the needs of my clients and deliver high-quality work that exceeds their expectations. I am always looking for new challenges and opportunities to grow as a designer.
+                I am a highly skilled and experienced freelance Devloper with a passion for creating visually stunning designs that effectively communicate a message. With over 5 years of experience in the industry, I have a diverse portfolio that showcases my ability to work in a variety of styles and mediums. I am a creative problem-solver, able to understand the needs of my clients and deliver high-quality work that exceeds their expectations. I am always looking for new challenges and opportunities to grow.
                 </p>
               </Split>
             </div>

@@ -92,9 +92,6 @@ const Navbar = ({ lr, nr, theme }) => {
                 <Link href="/showcase3/showcase3-dark">
                   <a className="dropdown-item">logo</a>
                 </Link>
-                <Link href="/showcase4/showcase4-dark">
-                  <a className="dropdown-item">Photoshop</a>
-                </Link>
                 <Link href="/showcase5/showcase5-dark">
                   <a className="dropdown-item">websites</a>
                 </Link>

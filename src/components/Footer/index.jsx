@@ -22,7 +22,7 @@ const Footer = ({ noSubBG }) => {
             <div className="cont">
               <div className="logo">
                 <a href="#0">
-                  <img src={`${appData.lightLogo}`} alt="" />
+                  <img style={{height:'30px', width:'200px'}} src={`${appData.lightLogo}`} alt="" />
                 </a>
               </div>
               <div className="con-info custom-font">
@@ -41,18 +41,18 @@ const Footer = ({ noSubBG }) => {
               <div className="social-icon">
                 <h6 className="custom-font stit simple-btn">Follow Us</h6>
                 <div className="social">
-                  <a href="#0" className="icon">
-                    <i className="fab fa-facebook-f"></i>
-                  </a>
-                  <a href="#0" className="icon">
-                    <i className="fab fa-twitter"></i>
-                  </a>
-                  <a href="#0" className="icon">
-                    <i className="fab fa-pinterest"></i>
-                  </a>
-                  <a href="#0" className="icon">
-                    <i className="fab fa-behance"></i>
-                  </a>
+                <a target='_blank' href="https://github.com/zenn99-arch" className="icon">
+                  <i className="fab fa-github"></i>
+                </a>
+                <a target='_blank' href="https://dribbble.com/Bimalray99" className="icon">
+                  <i className="fab fa-dribbble"></i>
+                </a>
+                <a target='_blank' href="https://www.instagram.com/creative___process/" className="icon">
+                  <i className="fab fa-instagram"></i>
+                </a>
+                <a target='_blank' href="#0" className="icon">
+                  <i className="fab fa-behance"></i>
+                </a>
                 </div>
               </div>
             </div>
@@ -93,14 +93,14 @@ const Footer = ({ noSubBG }) => {
             <div className="insta">
               <h6 className="custom-font stit simple-btn">Instagram Post</h6>
               <div className="insta-gallary">
-                <a href="#0">
-                  <img src="/img/insta/1.jpg" alt="" />
+                <a target='_blank' href="https://www.instagram.com/creative___process/">
+                  <img src="/img/insta/1.png" alt="" />
                 </a>
-                <a href="#0">
-                  <img src="/img/insta/2.jpg" alt="" />
+                <a target='_blank' href="https://www.instagram.com/creative___process/">
+                  <img src="/img/insta/2.jpeg" alt="" />
                 </a>
-                <a href="#0">
-                  <img src="/img/insta/3.jpg" alt="" />
+                <a target='_blank' href="https://www.instagram.com/creative___process/">
+                  <img src="/img/insta/3.png" alt="" />
                 </a>
               </div>
             </div>

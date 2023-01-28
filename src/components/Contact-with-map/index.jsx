@@ -115,7 +115,7 @@ const ContactWithMap = ({ theme = "dark" }) => {
                 </Split>
                 <div className="item mb-40">
                   <h5>
-                    <a href="#0">bimai.ray99@gmail.com</a>
+                    <a href="#0">bimal.ray99@gmail.com</a>
                   </h5>
                   <h5>+91 75040 36782</h5>
                 </div>
@@ -131,18 +131,18 @@ const ContactWithMap = ({ theme = "dark" }) => {
                   </h6>
                 </div>
                 <div className="social mt-50">
-                  <a href="#0" className="icon">
-                    <i className="fab fa-facebook-f"></i>
-                  </a>
-                  <a href="#0" className="icon">
-                    <i className="fab fa-twitter"></i>
-                  </a>
-                  <a href="#0" className="icon">
-                    <i className="fab fa-pinterest"></i>
-                  </a>
-                  <a href="#0" className="icon">
-                    <i className="fab fa-behance"></i>
-                  </a>
+                <a target='_blank' href="https://github.com/zenn99-arch" className="icon">
+                  <i className="fab fa-github"></i>
+                </a>
+                <a target='_blank' href="https://dribbble.com/Bimalray99" className="icon">
+                  <i className="fab fa-dribbble"></i>
+                </a>
+                <a target='_blank' href="https://www.instagram.com/creative___process/" className="icon">
+                  <i className="fab fa-instagram"></i>
+                </a>
+                <a target='_blank' href="#0" className="icon">
+                  <i className="fab fa-behance"></i>
+                </a>
                 </div>
               </div>
             </div>

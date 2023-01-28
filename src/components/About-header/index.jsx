@@ -12,13 +12,7 @@ const AboutHeader = () => {
           <div className="col-lg-12">
             <div className="cont text-center">
               <h1>About Me</h1>
-              <div className="path">
-                <a href="/">Home</a>
-                <span>/</span>
-                <a href="#0" className="active">
-                  About ME
-                </a>
-              </div>
+              
             </div>
           </div>
         </div>

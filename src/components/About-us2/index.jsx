@@ -49,14 +49,15 @@ const AboutUs2 = ({ skillsTheme }) => {
                 These are some of my works.
               </p>
               <Split>
-                <Link href="/about/about-dark">
+               
                   <a
+                  href="/Bimal.Ray1.pdf"
                     className="words chars splitting simple-btn custom-font mt-30 wow"
                     data-splitting
                   >
-                    <span>Know More</span>
+                    <span>Download CV</span>
                   </a>
-                </Link>
+              
               </Split>
             </div>
           </div>
