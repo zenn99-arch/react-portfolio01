@@ -17,7 +17,7 @@ const NavbarFullMenu = ({ theme, lr }) => {
       >
         <div className="container-fluid">
           <div className="logo">
-            <a href="/">
+            <Link href="/">
               {theme ? (
                 theme === "light" ? (
                   <img src={`${appData.darkLogo}`} alt="logo" />
@@ -27,7 +27,7 @@ const NavbarFullMenu = ({ theme, lr }) => {
               ) : (
                 <img src={`${appData.lightLogo}`} alt="logo" style={{height:'30px', width:'200px'}} />
               )}
-            </a>
+            </Link>
           </div>
           <div className="menu-icon">
             <span className="icon">

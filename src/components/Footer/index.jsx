@@ -41,16 +41,16 @@ const Footer = ({ noSubBG }) => {
               <div className="social-icon">
                 <h6 className="custom-font stit simple-btn">Follow Us</h6>
                 <div className="social">
-                <a target='_blank' href="https://github.com/zenn99-arch" className="icon">
+                <a target='_blank' rel="noreferrer" href="https://github.com/zenn99-arch" className="icon">
                   <i className="fab fa-github"></i>
                 </a>
-                <a target='_blank' href="https://dribbble.com/Bimalray99" className="icon">
+                <a target='_blank' rel="noreferrer" href="https://dribbble.com/Bimalray99" className="icon">
                   <i className="fab fa-dribbble"></i>
                 </a>
-                <a target='_blank' href="https://www.instagram.com/creative___process/" className="icon">
+                <a target='_blank' rel="noreferrer" href="https://www.instagram.com/creative___process/" className="icon">
                   <i className="fab fa-instagram"></i>
                 </a>
-                <a target='_blank' href="#0" className="icon">
+                <a target='_blank' rel="noreferrer" href="#0" className="icon">
                   <i className="fab fa-behance"></i>
                 </a>
                 </div>
@@ -62,13 +62,13 @@ const Footer = ({ noSubBG }) => {
             <div className="insta">
               <h6 className="custom-font stit simple-btn">Instagram Post</h6>
               <div className="insta-gallary">
-                <a target='_blank' href="https://www.instagram.com/creative___process/">
+                <a target='_blank' rel="noreferrer" href="https://www.instagram.com/creative___process/">
                   <img src="/img/insta/1.png" alt="" />
                 </a>
-                <a target='_blank' href="https://www.instagram.com/creative___process/">
+                <a target='_blank' rel="noreferrer" href="https://www.instagram.com/creative___process/">
                   <img src="/img/insta/2.jpeg" alt="" />
                 </a>
-                <a target='_blank' href="https://www.instagram.com/creative___process/">
+                <a target='_blank' rel="noreferrer" href="https://www.instagram.com/creative___process/">
                   <img src="/img/insta/3.png" alt="" />
                 </a>
               </div>

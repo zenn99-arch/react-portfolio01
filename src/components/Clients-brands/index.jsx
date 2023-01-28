@@ -78,6 +78,7 @@ const ClientsBrands = ({ subBG, theme }) => {
                 <Split>
                   <a
                   target='_blank'
+                  rel="noreferrer"
                     href="https://reactjs.org/"
                     className="link words chars splitting"
                     data-splitting
